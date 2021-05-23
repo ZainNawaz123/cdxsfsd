@@ -1,0 +1,45 @@
+h1{
+    color: #ff2600;
+    font-size:  100px ;
+    background-image: linear-gradient(to bottom right, red,orange,yellow,green,blue,indigo,violet)
+}
+
+p{
+    font-size: 40px;
+    font-family: sans-serif;
+    color:red;
+    background-image: linear-gradient(teal, red) ;
+    align-self: center ;
+    ;
+    
+}
+.Header{
+    display:flex;
+    background-color: #008080;
+    justify-content: center;
+}
+
+
+
+.Paragraph{
+    display:flex;
+    background-color: hsl(80, 61%, 50%);
+
+}
+
+.Links{
+    display:flex;
+    flex-direction: column;
+    background-color: #008080;
+    color:#ff0000 ;
+background-image: url(Bald.png);   
+Border-radius: 50px
+    
+}
+
+
+.Items{
+    display: flex;
+    color: #ff4500 ;
+    
+}
